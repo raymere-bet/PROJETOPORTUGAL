@@ -1,0 +1,19 @@
+<svg width="80" height="56" viewBox="0 0 80 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logótipo indisponível">
+  <path
+    d="M19 37C25 48 47 48 61 31"
+    stroke="#B8C2CC"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+  <path
+    d="M22 37C31 48 55 43 63 20"
+    stroke="#CBD3DA"
+    stroke-width="2.5"
+    stroke-linecap="round"
+  />
+
+  <path d="M28 29L35 25V40L28 37V29Z" fill="#AEB8C2"/>
+  <path d="M38 21L46 17V40L38 40V21Z" fill="#AEB8C2"/>
+  <path d="M50 10L59 5V39L50 40V10Z" fill="#AEB8C2"/>
+  <path d="M62 22L70 26V36L62 39V22Z" fill="#AEB8C2"/>
+</svg>
